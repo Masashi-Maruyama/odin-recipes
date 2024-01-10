@@ -1,0 +1,14 @@
+html {
+    color: black;
+    background-color: lightgoldenrodyellow;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+
+.title-with-img {
+    flex-direction: column;
+}
+
+.index {
+}
